@@ -42,12 +42,12 @@ HTML, CSS, Dart, SQLite.
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
+## Authors
+
+- [@karenyov](https://www.github.com/karenyov)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-## Authors
-
-- [@karenyov](https://www.github.com/karenyov)
 
