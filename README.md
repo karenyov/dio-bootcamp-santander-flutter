@@ -11,6 +11,12 @@
 
 [Flutter](https://docs.flutter.dev/)
 
+## Tech Stack
+
+**Client:** Flutter, Dart, CSS
+
+**Server:** 
+
 
 ## Installation
 
